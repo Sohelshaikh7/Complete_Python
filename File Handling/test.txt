@@ -1,0 +1,2 @@
+This is a new line
+ This should be the second line in my file
